@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+
+# Npm cache directory
+.npm
+
+typings/
+app/js/
+*.map
